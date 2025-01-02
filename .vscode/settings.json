@@ -22,5 +22,5 @@
   "workbench.statusBar.visible": true,
   "java.server.launchMode": "Standard",
   "java.compile.nullAnalysis": "disabled",
-  "java.configuration.updateBuildConfiguration": "interactive"
+  "java.configuration.updateBuildConfiguration": "automatic"
 }
